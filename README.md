@@ -16,8 +16,8 @@ The demo file is script_color.m.
 Do not hesitate to let me know if you have any queries when using this code.
 
 
-Li Xiaosong,et al.   
+Yuchan Jie,et al.   
                                                          
-E-mail: lixiaosong@buaa.edu.cn
+E-mail: jyc981214@163.com
 
-Last update: 12-23-2020
+Last update: 2-24-2023
