@@ -1,10 +1,9 @@
 function F= Xdog(inputIm,Gamma,Phi,Epsilon,k,Sigma)
-%XDOG 此处显示有关此函数的摘要
-%   此处显示详细说明
+
 
 
 if size(inputIm,3)>1
-    inputIm=rgb2gray(inputIm);             % A 是灰度图
+    inputIm=rgb2gray(inputIm);             
 end
 %inputIm = rgb2gray(inputIm);
 inputIm = im2double(inputIm);
