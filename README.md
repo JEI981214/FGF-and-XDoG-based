@@ -1,7 +1,5 @@
 # FGF-and-XDoG-based
 
-# medical-image-fusion_code
-
 This package contains the matlab code which is associated with the following paper:
 
 Yuchan Jie, Xiaosong Li, Mingyi Wang, Fuqiang Zhou, Haishu Tan . Multimodal medical image fusion based on extended difference-of-Gaussians and fast guided filtering.
