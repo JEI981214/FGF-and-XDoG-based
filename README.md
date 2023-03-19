@@ -2,7 +2,7 @@
 
 This package contains the matlab code which is associated with the following paper:
 
-Yuchan Jie, Xiaosong Li, Mingyi Wang, Fuqiang Zhou, Haishu Tan . Multimodal medical image fusion based on extended difference-of-Gaussians and fast guided filtering.
+Yuchan Jie, Xiaosong Li*,Fuqiang Zhou, Mingyi Wang, Haishu Tan . Multimodal medical image fusion based on extended difference-of-Gaussians and fast guided filtering.
 Usage of this code is free for research purposes only. 
 
 Please refer to the above publication if you use this code.
