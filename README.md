@@ -2,10 +2,10 @@
 
 This package contains the matlab code which is associated with the following paper:
 
-Yuchan Jie, Xiaosong Li*, Mingyi Wang,Fuqiang Zhou,Haishu Tan . Multimodal medical image fusion based on extended difference-of-Gaussians and edge perserving 
+Yuchan Jie, Xiaosong Li*, Mingyi Wang,Fuqiang Zhou,Haishu Tan . Multimodal medical image fusion based on extended difference-of-Gaussians and edge perserving .Expert Systems With Applications,2023,227,120301.https://doi.org/10.1016/j.eswa.2023.120301
+ 
 
-Usage of this code is free for research purposes only. Expert Systems With Applications,2023,227,120301.https://doi.org/10.1016/j.eswa.2023.120301
-
+Usage of this code is free for research purposes only.
 Please refer to the above publication if you use this code.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
