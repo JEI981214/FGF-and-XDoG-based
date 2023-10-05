@@ -6,18 +6,16 @@ Yuchan Jie, Xiaosong Li*, Mingyi Wang,Fuqiang Zhou,Haishu Tan . Multimodal medic
  
 
 Usage of this code is free for research purposes only.
+
 Please refer to the above publication if you use this code.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+********************************************************************
 
 The demo file is script_color.m. 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 Do not hesitate to let me know if you have any queries when using this code.
 
-
-Yuchan Jie,et al.   
+Editor: Yuchan Jie
                                                          
 E-mail: jyc981214@163.com
 
